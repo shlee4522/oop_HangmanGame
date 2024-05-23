@@ -105,8 +105,8 @@ void HangmanGame::play() {
 
     string currentTopic; // 현재 선택된 주제 저장
     while (true) {
-        currentTopic = getTopic(); // 사용자로부터 주제 선택 받기
-        if (!loadWords(currentTopic)) {
+        // 파일 경로를 비워서 주제 선택이 되지 않은 것으로 설정
+        if (!loadWords("")) {
             cerr << "단어 목록을 불러오는 데 실패했습니다. 프로그램을 종료합니다." << endl;
             exit(1);  // 파일 로드 실패 시 프로그램 종료
         }
@@ -128,16 +128,8 @@ void HangmanGame::play() {
         if (!won) {
             cout << "5번 실패하였습니다. 정답: " << answer << endl;
         }
-        char choice;
-        do {
-            cout << "계속하시겠습니까? (y/n): ";
-            cin >> choice;
-            if (choice != 'y' && choice != 'n') {
-                cout << "잘못된 입력입니다. 'y' 또는 'n'을 입력하세요." << endl;
-            }
-        } while (choice != 'y' && choice != 'n');
-        if (choice == 'n') break;
-        
-            
+        cout << "계속하시겠습니까? (y/n): ";
+        cin >> input;
+        if (input == 'n') break;
     }
 }
