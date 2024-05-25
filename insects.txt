@@ -1,4 +1,0 @@
-butterfly: An insect with beautiful wings
-bee: An insect that produce honey
-dragonfly: An Insect often seen in fall
-mantis: An insect with a pair of blades
