@@ -1,4 +1,0 @@
-rabbit: An animal with long ears and jump high
-polarbear: An animal with white fur
-crow: A bird with black feathers
-sparrow: A cute bird with brown feathers
