@@ -1,0 +1,4 @@
+software: Programs used by a computer
+microwave: A tool which can keeps food warm
+algorithm: A collection of actions to solve a problem
+humidifier: A machine that sprays moisture into the air
