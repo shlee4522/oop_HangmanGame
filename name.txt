@@ -1,4 +1,16 @@
 software: Programs used by a computer
 microwave: A tool which can keeps food warm
 algorithm: A collection of actions to solve a problem
-humidifier: A machine that sprays moisture into the air
+debug: the process of finding and fixing errors in software.
+input: data that is entered into a computer system for processing.
+logic: the part of a program that controls the sequence of actions and decisions.
+stack: a data structure that follows the last-in, first-out (LIFO) principle.
+planet: a celestial body moving in an elliptical orbit around a star.
+garden: a piece of ground used for growing flowers, vegetables, or other plants.
+bright: giving out or reflecting a lot of light; shining.
+custom: a traditional and widely accepted way of behaving or doing something.
+island: a piece of land surrounded by water.
+kitchen: a room or area where food is prepared and cooked.
+monkey: a small to medium-sized primate that typically has a long tail.
+travel: to make a journey, typically of some length.
+wonder: a feeling of amazement and admiration, caused by something 

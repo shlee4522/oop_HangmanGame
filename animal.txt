@@ -1,4 +1,10 @@
-rabbit: An animal with long ears and jump high
-polarbear: An animal with white fur
-crow: A bird with black feathers
-sparrow: A cute bird with brown feathers
+dolphin: A highly intelligent marine mammal known for its playful nature.
+panda: A bear native to China, famous for its black and white fur and love of bamboo.
+crow: A bird with black feathers.
+penguin: A flightless bird that swims expertly in Antarctic waters.
+tiger: A powerful predator with a striking orange coat and black stripes.
+goat: A hardy domesticated mammal known for its agility and milk.
+hawk: A bird of prey with keen eyesight and powerful talons.
+cobra: A venomous snake known for its hood and threatening posture.
+flamingo: A tall wading bird with pink feathers and long legs
+shark: A large marine predator known for its sharp teeth and fins.

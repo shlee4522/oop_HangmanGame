@@ -1,5 +1,5 @@
 // main.cpp
-#include "Hangman.h"
+#include "HangmanGame.h"
 
 int main() {
     HangmanGame game;

@@ -2,3 +2,9 @@ butterfly: An insect with beautiful wings
 bee: An insect that produce honey
 dragonfly: An Insect often seen in fall
 mantis: An insect with a pair of blades
+beetle: a type of insect with a hard shell-like back.
+firefly: an insect that produces light from its abdomen.
+hornet: a large wasp known for its aggressive nature.
+cricket: an insect known for its chirping sound, often heard at night.
+earwig: an insect with pincers on its abdomen, often found in damp environments.
+locust: a type of grasshopper known for forming large swarms that can devastate crops.
